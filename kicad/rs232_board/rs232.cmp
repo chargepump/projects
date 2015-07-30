@@ -1,0 +1,73 @@
+Cmp-Mod V01 Created by Cvpcb (2014-11-24 BZR 5301)-product   date = Thu Mar 26 23:00:38 2015
+
+BeginCmp
+TimeStamp = /5510D9E0;
+Reference = C1;
+ValeurCmp = 1u;
+IdModule  = My_Devices:C_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /5510DA38;
+Reference = C2;
+ValeurCmp = 1u;
+IdModule  = My_Devices:C_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /5510DC2D;
+Reference = C3;
+ValeurCmp = 1u;
+IdModule  = My_Devices:C_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /5510DC63;
+Reference = C4;
+ValeurCmp = 1u;
+IdModule  = My_Devices:C_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /5510DA70;
+Reference = C5;
+ValeurCmp = 1u;
+IdModule  = My_Devices:C_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /5510E099;
+Reference = J1;
+ValeurCmp = DB9;
+IdModule  = My_Devices:DB9FD_Modified;
+EndCmp
+
+BeginCmp
+TimeStamp = /5511B131;
+Reference = P1;
+ValeurCmp = HEADER;
+IdModule  = My_Devices:Pin_Header_Straight_1x06;
+EndCmp
+
+BeginCmp
+TimeStamp = /5511BFA8;
+Reference = R1;
+ValeurCmp = 1K;
+IdModule  = My_Devices:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /5511C033;
+Reference = R2;
+ValeurCmp = 1K;
+IdModule  = My_Devices:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /5510D732;
+Reference = U1;
+ValeurCmp = MAX232;
+IdModule  = My_Devices:SO-16-N_Modified;
+EndCmp
+
+EndListe
